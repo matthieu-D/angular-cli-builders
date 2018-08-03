@@ -1,14 +1,14 @@
 {
-  "name": "angular-cli-builders",
+  "name": "angular-ionic-cli-builders",
   "version": "2.1.2",
   "description": "A set of additional builders for angular-cli",
   "main": "index.js",
   "typings": "typings/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/meltedspark/angular-cli-builders"
+    "url": "https://github.com/matthieu-D/angular-cli-builders"
   },
-  "author": "Evgeny Barabanov",
+  "author": "Matthieu Drula",
   "license": "MIT",
   "engines": {
     "node": ">=8.9"
