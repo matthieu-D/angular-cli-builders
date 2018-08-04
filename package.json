@@ -1,5 +1,5 @@
 {
-  "name": "angular-cli-builders",
+  "name": "angular-ionic-cli-builders",
   "version": "2.1.2",
   "description": "A set of additional builders for angular-cli",
   "main": "index.js",
