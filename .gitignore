@@ -11,6 +11,5 @@ typings
 package
 
 src/custom-webpack/**/schema.json
-src/generic/**/schema.json
 *.js
 *.js.map
